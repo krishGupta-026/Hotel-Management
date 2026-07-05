@@ -37,7 +37,7 @@ npm run preview
 Hotel data is fetched from an API in `src/api.js`. Open that file and replace the placeholder with your real endpoint:
 
 ```js
-const API_URL = 'https://your-api-endpoint.example.com/hotels'
+const API_URL = 'https://demohotelsapi.pythonanywhere.com/hotels/'
 ```
 
 The app expects the response in this shape:
